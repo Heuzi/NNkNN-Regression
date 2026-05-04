@@ -1,5 +1,7 @@
 # NN-kNN Regression Paper Supplement
 
+The main NN-kNN repo is here: https://github.com/Heuzi/NN-kNN
+
 This folder is a clean snapshot of the code and data needed for the regression paper supplement.
 
 It is intentionally narrower than the working research repository:

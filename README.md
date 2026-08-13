@@ -4,6 +4,8 @@ The main NN-kNN repo is here: https://github.com/Heuzi/NN-kNN
 
 This folder is a clean snapshot of the code and data needed for the regression paper supplement.
 
+Note, the main repo will keep moving forward with new stuff. This repo will stay as it was as a history. Just like love. 
+
 It is intentionally narrower than the working research repository:
 
 - regression experiments only
